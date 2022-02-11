@@ -83,22 +83,3 @@ if __name__ == "__main__":
         mse = MSE(y_true=rawDF['發行量加權股價指數'].values[-ts:], y_pred=y_pred[-ts:])
             
         print(mse)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

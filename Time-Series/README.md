@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
 @author: Hsiang-Jen Li
 @email: hsiangjenli@gmail.com
-"""
+
 # About this project
 
 ## requirement

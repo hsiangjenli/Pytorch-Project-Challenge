@@ -137,13 +137,3 @@ def trainingReports(
         report.to_csv(csvPATH, index=False, mode = 'a', header=False)
     else:
         report.to_csv(csvPATH, index=False)
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    

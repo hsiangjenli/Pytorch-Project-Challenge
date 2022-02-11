@@ -48,22 +48,3 @@ class technicalA:
         return self
     def generateMoreFeatures(self):
         pass
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
