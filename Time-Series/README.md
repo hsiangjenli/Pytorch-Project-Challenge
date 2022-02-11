@@ -1,5 +1,4 @@
-@author: Hsiang-Jen Li
-@email: hsiangjenli@gmail.com
+
 
 # About this project
 
@@ -17,3 +16,6 @@
 ```python
 dataPATH = './Data/raw-TWWI-2011To2021.csv'
 ```
+---
+> **@author: Hsiang-Jen Li | 李享紝**  
+> **@email: hsiangjenli@gmail.com**
